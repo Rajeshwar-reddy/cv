@@ -1,0 +1,26 @@
+
+  <style>
+    body{
+      background-color: blue;
+    }
+  hr {
+         border-style: none;
+         border-top-color: grey;
+         border-top-style: dotted;
+         border-top-width: thick;
+         width: 40px;
+       }
+p{
+  margin-top: 5px
+  text-align: center;
+}
+
+h1{color: #66BFBF;
+}
+h3{color: #66BFBF;
+padding-top: 5px;}
+
+body{
+background-color: #EAF6F6;
+}
+</style>
